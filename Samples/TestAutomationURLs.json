@@ -1,8 +1,7 @@
 {
   "TestURLs": 
   [
-    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
-    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
-    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}"
+    "https://org4e40530b.crm5.dynamics.com/main.aspx?appid=cdc216f4-70ab-ee11-be37-000d3a07ed18",
+    "https://apps.powerapps.com/play/e/acba92f7-d694-e1d8-aa99-e050b9b5ad80/a/db564021-e2a1-4c80-a888-857f3599876a?tenantId=5797a577-fa12-47ad-8b39-5ecf8e86b10d&hint=b267859c-4ef3-4822-beab-413ee5bf3d97&sourcetime=1712554141164"
   ]
 }
